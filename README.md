@@ -11,3 +11,13 @@ String Interpolation
 Int 
 Double 
 Float
+Booleans
+Type Annotation
+Arrays / Sets / Tuples
+Dictionaries
+Enumeration
+Optionals
+Switch statements
+Loops
+functions including inputs and returning values
+closures
